@@ -1,0 +1,15 @@
+PING www.google.com (142.251.16.147) 56(84) bytes of data.
+64 bytes from bl-in-f147.1e100.net (142.251.16.147): icmp_seq=1 ttl=51 time=2.03 ms
+64 bytes from bl-in-f147.1e100.net (142.251.16.147): icmp_seq=2 ttl=51 time=1.96 ms
+64 bytes from bl-in-f147.1e100.net (142.251.16.147): icmp_seq=3 ttl=51 time=1.96 ms
+
+--- www.google.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 1.958/1.983/2.031/0.033 ms
+
+Hit:1 http://us-east-1.ec2.archive.ubuntu.com/ubuntu focal InRelease
+Hit:2 http://us-east-1.ec2.archive.ubuntu.com/ubuntu focal-updates InRelease
+Hit:3 http://us-east-1.ec2.archive.ubuntu.com/ubuntu focal-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu focal-security InRelease
+Reading package lists...
+
